@@ -3,7 +3,7 @@
 ### Economist | Data Analyst | API Integrator | Python & SQL Enthusiast
 
 📍 Loja, Ecuador | 🌐 English B2 (Cambridge Certified)  
-📫 andresvasquez2580@gmail.com | 🔗 [LinkedIn]((https://www.linkedin.com/in/andrés-vásquez-mora-6a1289229/))
+📫 andresvasquez2580@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/andrés-vásquez-mora-6a1289229)  
 
 ---
 
@@ -30,9 +30,9 @@ With a background in both academic and technical environments, I’ve developed 
 
 | Repository | Description | Status |
 |------------|-------------|--------|
-| [`github-api-analysis`](https://github.com/andresvasquez92/github-api-analysis) | GitHub API integration project: keyword search, filtering, and data insights. | ✅ Completed |
-| [`economic-dashboard-ecuador`](https://github.com/andresvasquez92/economic-dashboard-ecuador) | Interactive dashboard with Ecuadorian macroeconomic indicators. | 🛠️ In Progress |
-| [`illegal-mining-ecuador`](https://github.com/andresvasquez92/illegal-mining-ecuador) | Legal-political analysis of illegal mining using SQL and data mining. | 🛠️ In Progress |
+| [`github-api-analysis`](https://github.com/andresv2580/github-api-analysis) | GitHub API integration project: keyword search, filtering, and data insights. | ✅ Completed |
+| [`economic-dashboard-ecuador`](https://github.com/andresv2580/economic-dashboard-ecuador) | Interactive dashboard with Ecuadorian macroeconomic indicators. | 🛠️ In Progress |
+| [`illegal-mining-ecuador`](https://github.com/andresv2580/illegal-mining-ecuador) | Legal-political analysis of illegal mining using SQL and data mining. | 🛠️ In Progress |
 
 ---
 
@@ -46,7 +46,7 @@ With a background in both academic and technical environments, I’ve developed 
 
 ## 📫 Let’s Connect
 
-I’m currently open to remote roles and freelance projects focused on data analysis, API integration, bussines analysis, economic consultan and economic intelligence.  
+I’m currently open to remote roles and freelance projects focused on data analysis, API integration, and economic intelligence.  
 Feel free to connect or collaborate!
 
-📬 andresvasquez2580@gmail.com | 💼 [LinkedIn]((https://www.linkedin.com/in/andrés-vásquez-mora-6a1289229/)) | 🐱 [GitHub](https://github.com/andresv2580)
+📬 andresvasquez2580@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/andrés-vásquez-mora-6a1289229) | 🐱 [GitHub](https://github.com/andresv2580)
