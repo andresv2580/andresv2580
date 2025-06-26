@@ -3,7 +3,7 @@
 ### Economist | Data Analyst | API Integrator | Python & SQL Enthusiast
 
 📍 Loja, Ecuador | 🌐 English B2 (Cambridge Certified)  
-📫 andres@email.com | 🔗 [LinkedIn]([https://linkedin.com/in/andresvasquez](https://www.linkedin.com/in/andrés-vásquez-mora-6a1289229/))
+📫 andresvasquez2580@gmail.com | 🔗 [LinkedIn]((https://www.linkedin.com/in/andrés-vásquez-mora-6a1289229/))
 
 ---
 
@@ -49,4 +49,4 @@ With a background in both academic and technical environments, I’ve developed 
 I’m currently open to remote roles and freelance projects focused on data analysis, API integration, bussines analysis, economic consultan and economic intelligence.  
 Feel free to connect or collaborate!
 
-📬 andres@email.com | 💼 [LinkedIn](https://linkedin.com/in/andresvasquez) | 🐱 [GitHub](https://github.com/andresvasquez92)
+📬 andresvasquez2580@gmail.com | 💼 [LinkedIn]((https://www.linkedin.com/in/andrés-vásquez-mora-6a1289229/)) | 🐱 [GitHub](https://github.com/andresv2580)
